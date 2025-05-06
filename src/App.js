@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello, this app is deployed on AWS AMPLIFY BY ABHIJEET GITTE
         </a>
       </header>
     </div>
